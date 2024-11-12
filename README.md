@@ -29,7 +29,7 @@ My consulting background and hands-on analytics experience fuel my ability to br
 * Led a team in developing a data visualization roadmap and automating data lake reporting, significantly enhancing real-time insight capabilities for senior leadership.
 *Improved operational efficiency by optimizing project workflows through process automation and streamlining project management activities.
 
-**Consultant:**
+**Consultant at Jabian Consulting:**
 
 * Managed SDLC for multiple enhancement projects, coordinated cross-functional efforts, and developed Power BI dashboards that streamlined decision-making processes.
 * Designed and delivered training programs to improve end-user proficiency in data tools and supported strategic planning initiatives through geospatial analysis and workshops.

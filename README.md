@@ -7,7 +7,7 @@ I’m Hallie Marshall, a seasoned consultant with a deep passion for using data 
 My consulting background and hands-on analytics experience fuel my ability to bridge the gap between data science and business needs, ensuring that data is at the heart of strategic planning and execution.
 
 # **My First Published Project**
-## **Customer Segmentation with K-Means Clustering**
+## [**Customer Segmentation with K-Means Clustering**](https://github.com/hallie-marshall/retail-kmeans-clustering)
 **Description:** Segmented retail customers using K-Means clustering, identifying distinct groups based on purchasing patterns.
 
 **Techniques Used:** Exploratory Data Analysis (EDA), Clustering, Data Visualization.

@@ -1,5 +1,5 @@
 **Welcome to my Advanced Analytics and Data Science portfolio!** 
-This repository highlights my approach to harnessing data as a tool for strategic decision-making and operational improvement. With experience across consulting, process optimization, and data management, I bring a unique perspective that combines analytics with business strategy to drive meaningful business impact.
+This repository highlights my approach to harnessing data as a tool for strategic decision-making and operational improvement. With experience across strategic consulting, process optimization, and data management, I bring a unique perspective that combines analytics with business strategy to drive meaningful business impact.
 
 # **About Me**
 I’m Hallie Marshall, a seasoned consultant with a deep passion for using data to drive informed business decisions. With a track record of transforming complex data into actionable insights, I specialize in improving data architecture, streamlining processes, and enabling real-time analytics to empower teams and stakeholders. My current role as a Consulting Manager allows me to lead data-focused initiatives that enhance efficiency, automate reporting, and strengthen decision-making at every level.

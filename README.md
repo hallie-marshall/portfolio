@@ -50,4 +50,4 @@ Each project folder contains:
 * Code files and notebooks with documentation.
 * Data (where permissible) and visualizations to illustrate results.
 
-Feel free to explore, experiment, and reach out with any questions or feedback. I’m always open to receiving feedback adn connecting on how data can best be leveraged to solve modern business challenges.
+Feel free to explore and reach out with any questions or feedback. I’m always open to receiving feedback and connecting on how data can best be leveraged to solve modern business challenges.

@@ -23,7 +23,7 @@ My consulting background and hands-on analytics experience fuel my ability to br
 **Highlights:** Showcases skills in predictive analytics, customer retention modeling, and interpreting machine learning outputs for business decision-making.
 
 
-## [**Promotional Testing with Statistical and Probabilistic Modeling**](https://github.com/hallie-marshall/ecommerce-promotional-abtesting)
+## [**Promotional Testing with Statistical and Probabilistic Models**](https://github.com/hallie-marshall/ecommerce-promotional-abtesting)
 **Description:** Conducted A/B and Multivariate Testing on promotional strategies to analyze the effectiveness of various features and their interactions.
 
 **Techniques Used:** ANOVA, Bayesian A/B Testing, Feature Engineering, Logistic Regression.

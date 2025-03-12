@@ -2,11 +2,11 @@
 This repository highlights my approach to harnessing data as a tool for strategic decision-making and operational improvement. With experience across strategic consulting, process optimization, and data management, I bring a unique perspective that combines analytics with business strategy to drive meaningful business impact.
 
 # **About Me**
-I’m Hallie Marshall, a seasoned consultant with a deep passion for using data to drive informed business decisions. With a track record of transforming complex data into actionable insights, I specialize in improving data architecture, streamlining processes, and enabling real-time analytics to empower teams and stakeholders. My current role as a Consulting Manager allows me to lead data-focused initiatives that enhance efficiency, automate reporting, and strengthen decision-making at every level.
+I’m Hallie Marshall, a seasoned consultant with a deep passion for using data to drive informed business decisions. With a track record of transforming complex data into actionable insights, I specialize in improving data architecture, streamlining processes, and enabling real-time analytics to empower teams and stakeholders. My current role as a Consulting Manager allows me to lead data-focused initiatives that enhance efficiency, automate reporting, and strengthen decision-making at various levels of global organizations.
 
 My consulting background and hands-on analytics experience fuel my ability to bridge the gap between data science and business needs, ensuring that data is at the heart of strategic planning and execution.
 
-# **My First Project Series**
+# **E-Commerce Project Series**
 ## [**Customer Segmentation with K-Means Clustering**](https://github.com/hallie-marshall/retail-kmeans-clustering)
 **Description:** Segmented retail customers using K-Means clustering, identifying distinct groups based on purchasing patterns.
 
@@ -18,17 +18,25 @@ My consulting background and hands-on analytics experience fuel my ability to br
 ## [**Customer Lifetime Value with Predictive, Probabilistic and Predictive Modeling**](https://github.com/hallie-marshall/ecommerce-churn-clv)
 **Description:** Segmented retail customers using K-Means clustering, identifying distinct groups based on purchasing patterns.
 
-**Techniques Used:**  Exploratory Data Analysis (EDA), Feature Engineering, Regression Modeling, XGBoost, Feature Engineering, SHAP Interpretability.
+**Techniques Used:**  Exploratory Data Analysis (EDA), Feature Engineering, Regression Modeling, SHAP Interpretability, XGBoost.
 
 **Highlights:** Showcases skills in predictive analytics, customer retention modeling, and interpreting machine learning outputs for business decision-making.
+
+
+## [**Promotional Testing with Statistical and Probabilistic Models**](https://github.com/hallie-marshall/ecommerce-promotional-abtesting)
+**Description:** Conducted A/B and Multivariate Testing on promotional strategies to analyze the effectiveness of various features and their interactions.
+
+**Techniques Used:** ANOVA, Bayesian A/B Testing, Feature Engineering, Logistic Regression.
+
+**Highlights:** Demonstrates expertise in statistical hypothesis testing, probabilistic decision-making to optimize marketing strategies. 
 
 
 # **Skills & Tools**
 **Languages:** Python, SQL, DAX (Power BI).
 
-**Libraries:** Matplotlib, NumPy, Pandas, PyCaret, Scikit-Learn, XGBoost.
+**Libraries:** Matplotlib, NumPy, Pandas, PyCaret, Scikit-Learn, Scipy, Statsmodel, XGBoost.
 
-**Data Visualization Tools:** Power BI, Matplotlib, SHAP.
+**Data Visualization Tools:** Matplotlib, PowerBI, Seaborn, SHAP.
 
 **Project Management & Consulting:** Extensive experience in managing cross-functional initiatives, developing data solutions, and leading change management and training programs for data advocacy and utility.
 

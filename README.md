@@ -28,7 +28,7 @@ My consulting background and hands-on analytics experience fuel my ability to br
 
 **Techniques Used:** ANOVA, Bayesian A/B Testing, Feature Engineering, Logistic Regression.
 
-**Highlights:** Demonstrates expertise in statistical hypothesis testing, probabilistic decision-making to optimize marketing strategies. 
+**Highlights:** Demonstrates expertise in statistical hypothesis testing and probabilistic decision-making to optimize marketing strategies. 
 
 
 # **Skills & Tools**
@@ -44,7 +44,7 @@ My consulting background and hands-on analytics experience fuel my ability to br
 **Consulting Manager at Jabian Consulting:**
 
 * Led a team in developing a data visualization roadmap and automating data lake reporting, significantly enhancing real-time insight capabilities for senior leadership.
-*Improved operational efficiency by optimizing project workflows through process automation and streamlining project management activities.
+* Improved operational efficiency by optimizing project workflows through process automation and streamlining project management activities.
 
 **Consultant at Jabian Consulting:**
 

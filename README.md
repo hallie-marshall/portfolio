@@ -16,7 +16,7 @@ My consulting background and hands-on analytics experience fuel my ability to br
 
 
 ## [**Customer Lifetime Value with Predictive, Probabilistic and Predictive Modeling**](https://github.com/hallie-marshall/ecommerce-churn-clv)
-**Description:** Segmented retail customers using K-Means clustering, identifying distinct groups based on purchasing patterns.
+**Description:** Implemented hybrid CLV models with BG/NBD, Gamma-Gamma, and XGBoost to forecast purchase frequency, monetary value, and lifetime revenue for strategic retention.
 
 **Techniques Used:**  Exploratory Data Analysis (EDA), Feature Engineering, Regression Modeling, SHAP Interpretability, XGBoost.
 

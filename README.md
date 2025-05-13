@@ -31,10 +31,18 @@ My consulting background and hands-on analytics experience fuel my ability to br
 **Highlights:** Demonstrates expertise in statistical hypothesis testing and probabilistic decision-making to optimize marketing strategies. 
 
 
+## [**Marketing Mix Modeling (MMM) with PyMC-Marketing**](https://github.com/hallie-marshall/ecommerce-mmm)
+**Description:** Developed a Bayesian Marketing Mix Model (MMM) by applying adstock and saturation transformations to time-series channel spend, using MCMC sampling to quantify ROI and guide budget allocation
+
+**Techniques Used:** Adstock carry-over, Bayesian inference via PyMC-Marketing, MCMC sampling (NUTS), Feature engineering, Posterior diagnostics, Scenario simulation
+
+**Highlights:** Showcases expertise in marketing mix modeling, time-series feature engineering, and translating probabilistic ROI insights into actionable budget optimization strategies.
+
+
 # **Skills & Tools**
 **Languages:** Python, SQL, DAX (Power BI).
 
-**Libraries:** Matplotlib, NumPy, Pandas, PyCaret, Scikit-Learn, Scipy, Statsmodel, XGBoost.
+**Libraries:** Matplotlib, NumPy, Pandas, PyCaret, PyMC-Marketing, Scikit-Learn, Scipy, Statsmodel, XGBoost.
 
 **Data Visualization Tools:** Matplotlib, PowerBI, Seaborn, SHAP.
 

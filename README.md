@@ -42,7 +42,7 @@ My consulting background and hands-on analytics experience fuel my ability to br
 # **Skills & Tools**
 **Languages:** Python, SQL, DAX (Power BI).
 
-**Libraries:** Matplotlib, NumPy, Pandas, PyCaret, PyMC-Marketing, Scikit-Learn, Scipy, Statsmodel, XGBoost.
+**Libraries:** Matplotlib, NumPy, Pandas, PyCaret, PyMC-Marketing, Scikit-Learn, Scipy, Statsmodels, XGBoost.
 
 **Data Visualization Tools:** Matplotlib, PowerBI, Seaborn, SHAP.
 

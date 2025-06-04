@@ -15,7 +15,7 @@ My consulting background and hands-on analytics experience fuel my ability to br
 **Highlights:** Demonstrates skills in data preparation, feature selection, and interpreting cluster outputs for targeted marketing insights.
 
 
-## [**Customer Lifetime Value with Predictive, Probabilistic and Predictive Modeling**](https://github.com/hallie-marshall/ecommerce-churn-clv)
+## [**Customer Lifetime Value with Descriptive, Probabilistic and Predictive Modeling**](https://github.com/hallie-marshall/ecommerce-churn-clv)
 **Description:** Implemented hybrid CLV models with BG/NBD, Gamma-Gamma, and XGBoost to forecast purchase frequency, monetary value, and lifetime revenue for strategic retention.
 
 **Techniques Used:**  Exploratory Data Analysis (EDA), Feature Engineering, Regression Modeling, SHAP Interpretability, XGBoost.

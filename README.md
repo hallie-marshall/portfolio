@@ -64,6 +64,6 @@ My consulting background and hands-on analytics experience fuel my ability to br
 Each project folder contains:
 * A README file describing project objectives, methods, and findings.
 * Code files and notebooks with documentation.
-* Data (where permissible) and visualizations to illustrate results.
-
-Feel free to explore and reach out with any questions or feedback. I’m always open to receiving feedback and connecting on how data can best be leveraged to solve modern business challenges.
+* Data and visualizations (where permissible) to illustrate results.
+  
+Feel free to explore and reach out with any questions or reactions. I’m always open to receiving feedback and connecting on how data can best be leveraged to solve modern business challenges.
